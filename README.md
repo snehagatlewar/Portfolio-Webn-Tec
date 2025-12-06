@@ -1,1 +1,1 @@
-![My Profile](images/result.png)
+![My Profile](images/Result.png)
